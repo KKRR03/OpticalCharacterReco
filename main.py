@@ -1,4 +1,4 @@
-##K.K.R.R.premathilaka
+##K.K.R.R.Premathilaka
 ##INTERNET OF THINGS AND COMPUTER VISION
 ##Task 01: Object Detection / Optical Character Recognition (ORC)
 
